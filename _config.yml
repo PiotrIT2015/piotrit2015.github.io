@@ -1,7 +1,6 @@
 # Site settings
-title: Serguei Cambour
-twitter_username: belgoros
-name: Serguei Cambour
+title: Piotr Próchnicki
+name: Piotr Próchnicki
 
 # Build settings
 markdown: kramdown
@@ -9,158 +8,118 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
-  - title: GitHub
-    url: https://github.com/belgoros
-  - title: StackOverflow
-    url: http://stackoverflow.com/users/1119043/belgoros
-  - title: DZone
-    url: https://dzone.com/users/224218/jcrusoe.html
-  - title: LinkedIn
-    url: https://be.linkedin.com/in/sergueicambour
+# - title: GitHub
+#   url: https://github.com/PiotrIT2015
+# - title: Linkedin
+#   url: https://www.linkedin.com/in/piotr-prochnicki
+# - title: Facebook
+#   url: https://facebook.com/piotr.prochnicki.526
+# - title: Twitter
+#   url: https://twitter.com/PiotrProchnicki
+
+#Social media   
+twitter_username:
+ - PiotrProchnicki
+instagram_username:
+ - pprochni
+linkedin_username:
+ - piotr-prochnicki
+github_username:
+ - PiotrIT2015
+facebook_username:
+ - piotr.prochnicki.526
+gitlab_username:
+ - PiotrIT2017
+dockerhub_username:
+ - piotrit2015
+hobby:
+ - pentester-7808b2133
+ 
 
 #Any buzzword skills you want to include
 skills:
-  - Ruby
-  - Ruby on Rails
-  - Elixir
-  - Phoenix
-  - Crystal
-  - JRuby
-  - Cucumber
-  - RSpec
-  - Capybara
-  - Java J2EE
-  - Spring MVC
-  - Spring Boot
-  - Hibernate
-  - Tapestry
-  - JSF
-  - Maven
-  - Ember JS
-  - Docker
-  - Git/GitLab/GitHub/Bitbucket
+ - Java  
+ - GIT
+ - Android
+ - Gradle
+ - Spring
+ - SQL
+ - HTML
+ - CSS
+ - Linux
+ - Windows
+ - Docker
 
 #Work experience is required
 roles:
-  - title: Senior Consultant/Engineer
-    start: February 2021
-    end: ongoing
-    employer: Capgemini Engineering, Brussels, Belgium
-    description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
-
-  - title: Senior Software Engineer
-    start: February 2020
-    end: February 2021
-    employer: Devoteam, Brussels, Belgium
-    description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
-  - title: Senior Software Engineer
-    start: January 2014
-    end: January 2020
-    employer: GFI Informatique, Lille, France
-    description: I'm involved in different projects and primarily working on client sites in Communications, Financial, Retail and Transport Services.
-  - title: Ruby on Rais Enginner
-    start: Oct.2013
-    end: Feb. 2014
-    employer: Teleborder, USA
-    description: Migration to Rails 4, fix compatibilities issues
-  - title: Ruby on Rails Engineer
-    start: Oct.2013
-    end: Jan.2014
-    employer: Silicon Salad, Lille, France
-    description: WEB agency specialized in e-commerce solutions.</br>I'm involved in evoluating and support of existing Rails applications.
-  - title: Software Engineer
-    start: June 2010
-    end: June 2013
-    employer: Atos Integration, France
-    description: A range technical roles, primarily working on client sites in Financial, Retail, Transport Services.
-  - title: Software Engineer
-    start: March 2007
-    end: March 2010
-    employer: Aubay.Promotic, Belgium
-    description: A range technical roles, primarily working on client sites in Retail, Transport Services, Public and State Institutions.
+ - title: Office worker
+   start: September 2020
+   end: December 2020
+   employer: Paweł Samolej Grupa Center
+   description: Complete the marketing of all items that needed to be completed before the holiday shopping season in an automated Shopper environment.
+ - title: Office Administrative Employee
+   start: November 2018
+   end: June 2020
+   employer: HR team Sp. z.o.o.
+   description: Segregation, recording and creating documentation. Cooperating with other organizational units. Handling of mail. Entering data to a computer. Office service.
+ - title: Cisco Services Engineer Intern
+   start: July 2017
+   end: September 2017
+   employer: CISCO SYSTEMS, Krakow, Poland
+   description: Achieve practical knowledge in the field of computer networks and programming language Python
+ - title: IT Specialist
+   start: March 2017
+   end: April 2017
+   employer: COGITO, Association for the development of psychiatry and environmental care, Krakow, Poland
+   description: I took care of all IT devices. My daily work focused on solving different problems with local networks and systems.
+ - title: Office Technican
+   start: October 2016
+   end: December 2016
+   employer: Office Computing, City Office, Krakow, Poland
+   description: Accounting for hardware and software. Replacing the printer's toner. IT services for conference rooms.
+ - title: Serviceman
+   start: July 2015
+   end: October 2015
+   employer: Office Computing, Malopolska Regional Office, Krakow, Poland
+   description: Execution of current hungry signaled by IT system users. Service support phone service calls.
 
 #Education is required
 education:
-  - level: Master of Engineering
-    date: 1991
-    subject: Computer Sciences and Information Technology
-    school: University of Krasnodar, Russia
+ - level: Master of Science
+   date: March 2017
+   subject: Applied Computer Sciences
+   school: University of Science and Technology, Krakow, Poland
+ - level: Bachelor of Science
+   date: March 2015
+   subject: Medical Physics
+   school: University of Science and Technology, Krakow, Poland
 
 #This section is optional (as is the image link below)
-courses:
-  - title: shaping-up-with-angular-js
-    link: https://www.codeschool.com/courses/shaping-up-with-angular-js
-    date: September 2014
-  - title: Front End Formations
-    link: https://www.codeschool.com/courses/front-end-formations
-    date: June, 2014
-  - title: JavaScript Best Practices
-    link: https://www.codeschool.com/courses/javascript-best-practices
-    date: June, 2014
-  - title: Surviving APIs with Rails
-    link: https://www.codeschool.com/courses/surviving-apis-with-rails
-    date: June, 2014
-  - title: Rails 4 Patterns
-    link: https://www.codeschool.com/courses/rails-4-patterns
-    date: June, 2014
-  - title: Testing with RSpec
-    link: https://www.codeschool.com/courses/testing-with-rspec
-    date: June, 2014
-  - title: Rails Testing for Zombies
-    link: https://www.codeschool.com/courses/rails-testing-for-zombies
-    date: June, 2014
-  - title: Rails for Zombies 2
-    link: https://www.codeschool.com/courses/rails-for-zombies-2
-    date: May, 2014
-  - title: Rails for Zombies Redux
-    link: https://www.codeschool.com/courses/rails-for-zombies-redux
-    date: May, 2014
-  - title: Ruby Bits Part 2
-    link: https://www.codeschool.com/courses/ruby-bits-part-2
-    date: May, 2014
-  - title: Rails 4:Zombie Outlaws
-    link: https://www.codeschool.com/courses/rails-4-zombie-outlaws
-    date: May, 2014
-  - title: Git Real
-    link: https://www.codeschool.com/courses/git-real
-    date: May, 2014
-  - title: Git Real 2
-    link: https://www.codeschool.com/courses/git-real-2
-    date: May, 2014
-  - title: Mastering GitHub
-    link: https://www.codeschool.com/courses/mastering-github
-    date: May, 2014
-  - title: Try Git
-    link: https://www.codeschool.com/courses/try-git
-    date: May, 2014
-
 apps:
-  - name: UMed
-    url: https://umed.herokuapp.com/
-    description: Quiz for students in medicine (Rails)
-  - name: jlc-invest
-    url: https://jlc-invest.herokuapp.com
-    description: clients portfolio management (Rails)
-
+ - name: Reminder
+   url: https://github.com/PiotrIT2015/Reminder
+   description: app helps to remember about shops
+ - name: HealthMonitor
+   url: https://github.com/PiotrIT2015/HealthMonitor
+   description: app helps maintain balance in i.e.time of COVID-19
+ - name: Shipper
+   url: https://github.com/PiotrIT2015/Shipper
+   description: app helps counting time demanded for shopping from Reminder
+   
 #List of interesting Github repo/projects to include - optional
 github:
-  - belgoros/umed
-  - belgoros/jlc-invest
-  - belgoros/blog-jsf
-  - belgoros/spot-time
-  - belgoros/sinatra_songs
-  - belgoros/springy-blog
-  - belgoros/laby
+ - PiotrIT2015/Cisco
+ - PiotrIT2015/thesis
+ - PiotrIT2015/Greenroom
+ - PiotrIT2015/Codility
 
 #Stackoverflow flair is optional
 stackoverflow:
-  profileurl: https://stackoverflow.com/users/1119043/belgoros
-  flairimageurl: https://stackoverflow.com/users/flair/1119043.png
+   profileurl: https://stackoverflow.com/users/8010152/piotr-pr%C3%B3chnicki
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-  <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring, JPA (Hibernate) in addition to others.
-  <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although very frequently I'm involved to contribute on outdated frameworks using Struts 1, JSP ans jQuery). I have also worked with some client side technology, having used jQuery, Bootstrap, Foundation, LESS, SASS and have also experimented with other technologies such as Angular, Ember, Backbone, CoffeeScript.<br/><br/>
-  <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, GitLab, CVS, SVN, Maven, Sonar, Jira and Jenkins. I have experience with lots of testing tools and technologies.<br/><br/>
-  I have also gained experience and knowledge from several side projects and research that I have undertaken in my free time, including Amazon S3, PayPal.<br/><br/>
-  I created, and am now primary contributor to a Rails quiz application for students in medicine: <a target='_blank' href="https://umed.herokuapp.com/">UMed</a>, which provides integration with PayPal API and Amazon S3. <br/><br/>
+   <strong>JVM</strong>: I've develop Java application sinc study.
+   <strong>Spring</strong>: I've develop microservices based on Spring sinc I started create project Greenroom.
+   <strong>Docker</strong>: I used Docker in Greenroom.
+   <strong>Android</strong>: I was developing apps in this technology i.e. through useme portal<br/><br/>

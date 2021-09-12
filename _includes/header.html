@@ -2,11 +2,16 @@
 	<div class="container">
 		<div class="navbar-header">
 			<a class="navbar-brand" href="#">
-				{{site.title}}
+				{{site.title}}	
 			</a>
 		</div>
 		<div id="navbar" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav navbar-right">
+				{% if course.optionalimage %}
+						<div class="col-sm-5">
+							<img src="{{course.optionalimage}}">
+						</div>
+					{% endif %}
 				{% for link in site.primarylinks %}
 					<li><a target='_blank' href="{{link.url}}">{{link.title}}</a></li>
 				{% endfor %}
