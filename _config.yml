@@ -32,8 +32,6 @@ gitlab_username:
  - PiotrIT2017
 dockerhub_username:
  - piotrit2015
-hobby:
- - pentester-7808b2133
  
 
 #Any buzzword skills you want to include
@@ -49,6 +47,7 @@ skills:
  - Linux
  - Windows
  - Docker
+ - Hibernate
 
 #Work experience is required
 roles:
