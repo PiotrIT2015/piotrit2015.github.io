@@ -111,7 +111,7 @@ apps:
 github:
  - PiotrIT2015/Cisco
  - PiotrIT2015/thesis
- - PiotrIT2015/Greenroom
+ - PiotrIT2015/Greenchamber
  - PiotrIT2015/Codility
 
 #Stackoverflow flair is optional
@@ -121,6 +121,6 @@ stackoverflow:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>JVM</strong>: I've develop Java application sinc study.
-   <strong>Spring</strong>: I've develop microservices based on Spring sinc I started create project Greenroom.
-   <strong>Docker</strong>: I used Docker in Greenroom.
+   <strong>Spring</strong>: I've develop microservices based on Spring sinc I started create project Greenchamber.
+   <strong>Docker</strong>: I used Docker in Greenchamber.
    <strong>Android</strong>: I was developing apps in this technology i.e. through useme portal<br/><br/>
