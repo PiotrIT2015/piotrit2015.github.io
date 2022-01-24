@@ -111,7 +111,7 @@ apps:
 github:
  - PiotrIT2015/Cisco
  - PiotrIT2015/thesis
- - PiotrIT2015/Greenchamber
+ - PiotrIT2015/balanceguard
  - PiotrIT2015/Codility
 
 #Stackoverflow flair is optional
