@@ -104,6 +104,9 @@ apps:
  - name: Shipper
    url: https://github.com/PiotrIT2015/Shipper
    description: app helps counting time demanded for shopping from Reminder
+ - name: KrkCode
+   url: https://github.com/PiotrIT2015/KrkCode
+   description: projects desktop app which can control my other application.
    
 #List of interesting Github repo/projects to include - optional
 github:
@@ -111,7 +114,6 @@ github:
  - PiotrIT2015/thesis
  - PiotrIT2015/Krkbalanceguard
  - PiotrIT2015/Codility
- - PiotrIT2015/KrkCode
 
 #Stackoverflow flair is optional
 stackoverflow:
