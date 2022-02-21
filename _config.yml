@@ -106,7 +106,7 @@ apps:
    description: app helps counting time demanded for shopping from Reminder
  - name: KrkCode
    url: https://github.com/PiotrIT2015/KrkCode
-   description: project desktop app which can control my other applications.
+   description: project frontend app for Krkbalanceguard.
    
 #List of interesting Github repo/projects to include - optional
 github:
