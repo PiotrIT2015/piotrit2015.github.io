@@ -104,8 +104,8 @@ apps:
  - name: Shipper
    url: https://github.com/PiotrIT2015/Shipper
    description: app helps counting time demanded for shopping from Reminder
- - name: KrkCode
-   url: https://github.com/PiotrIT2015/KrkCode
+ - name: kbg-frontend
+   url: https://github.com/PiotrIT2015/kbg-frontend
    description: project frontend app for Krkbalanceguard.
    
 #List of interesting Github repo/projects to include - optional
