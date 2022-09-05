@@ -40,7 +40,8 @@ dockerhub_username:
 
 #Any buzzword skills you want to include
 skills:
- - Java  
+ - Java
+ - Python  
  - GIT
  - Android
  - Gradle
