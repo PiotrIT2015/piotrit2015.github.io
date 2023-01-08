@@ -80,7 +80,7 @@ roles:
    start: July 2017
    end: September 2017
    employer: CISCO SYSTEMS, Krakow, Poland
-   description: Achieve practical knowledge in the field of computer networks and programming language Python
+   description: Achieve practical knowledge in the field of computer networks and <strong>Python</strong>
  - title: IT Specialist
    start: March 2017
    end: April 2017
@@ -134,7 +134,7 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I've develop Java application sinc study.
-   <strong>Spring</strong>: I've develop microservices based on Spring sinc I started create project balanceguard.
-   <strong>Docker</strong>: I used Docker in balanceguard.
+   <strong>JVM</strong>: I've developed Java application since study.
+   <strong>Spring</strong>: I've developed microservices based on Spring since I started create project krkbalanceguard.
+   <strong>Docker</strong>: I used Docker in krkbalanceguard.
    <strong>Android</strong>: I was developing apps in this technology i.e. through useme portal<br/><br/>
