@@ -53,10 +53,15 @@ skills:
 
 #Work experience is required
 roles:
+ - title: DevOps Engineer
+   start: May 2023
+   end: Ongoing
+   employer: HXS Sp. z.o.o. Sp. k.
+   description:
  - title: Administration and Office Assistant
    start: December 2022
    end: March 2023
-   employer: Tax Unit
+   employer: Tax Unit Sp. z.o.o.
    description: Archiving office documents. Assistance in fulfilling office orders. Assistance in writing letters to offices. Support for office equipment.
  - title: online store employee
    start: March 2022
