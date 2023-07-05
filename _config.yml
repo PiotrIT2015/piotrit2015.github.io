@@ -115,8 +115,11 @@ apps:
  - name: Reminder
    url: https://github.com/PiotrIT2015/Reminder
    description: app helps to remember about shops
- - name: HealthMonitor
-   url: https://github.com/PiotrIT2015/HealthMonitor
+ - name: HealthMonitorv2.0
+   url: https://github.com/PiotrIT2015/HealthMonitorv2.0
+   description: app helps maintain balance in i.e.time of COVID-19
+ - name: HealthMonitorv1.0
+   url: https://github.com/PiotrIT2015/HealthMonitorv1.0
    description: app helps maintain balance in i.e.time of COVID-19
  - name: Shipper
    url: https://github.com/PiotrIT2015/Shipper
