@@ -20,16 +20,16 @@ primarylinks:
 #Social media
 hobby_username:
  - piotr-prochnicki,69881   
-#twitter_username:
-# - PiotrProchnicki
-#instagram_username:
-# - pprochni
+twitter_username:
+ - PiotrProchnicki
+instagram_username:
+ - pprochni
 linkedin_username:
  - piotr-prochnicki
 github_username:
  - PiotrIT2015
-#facebook_username:
-# - piotr.prochnicki.526
+facebook_username:
+ - piotr.prochnicki.526
 gitlab_username:
  - PiotrIT2017
 dockerhub_username:
