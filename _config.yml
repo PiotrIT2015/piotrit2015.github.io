@@ -112,12 +112,9 @@ education:
 
 #This section is optional (as is the image link below)
 apps:
- - name: Reminder
-   url: https://github.com/PiotrIT2015/Reminder
-   description: app helps to remember about shops
- - name: Shipper
-   url: https://github.com/PiotrIT2015/Shipper
-   description: app helps counting time demanded for shopping from Reminder
+ - name: WW-P-mobile
+   url: https://github.com/PiotrIT2015/WW-P-mobile
+   description: this app could be use as mobile app for shops
    
 #List of interesting Github repo/projects to include - optional
 github:
@@ -126,7 +123,7 @@ github:
  - PiotrIT2015/RelaxationTube
  - PiotrIT2015/Codility
  - PiotrIT2015/WW-P
- - PiotrIT2015/WW-P-mobile
+ - PiotrIT2015/service-ww-p
 
 #Stackoverflow flair is optional
 stackoverflow:
