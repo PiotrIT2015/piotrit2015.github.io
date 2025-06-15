@@ -36,8 +36,8 @@ dockerhub_username:
  - piotrit2015
 linkedin_craft:
  - lowcy-kariery
- 
-
+linkedin_craft2:
+ - poland-people-linkedin
 #Any buzzword skills you want to include
 skills:
  - Java
