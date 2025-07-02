@@ -120,16 +120,13 @@ apps:
    
 #List of interesting Github repo/projects to include - optional
 github:
- - PiotrIT2015/CV-P
- - PiotrIT2015/thesis
- - PiotrIT2015/RelaxationTube
- - PiotrIT2015/WW-P
- - PiotrIT2015/service-ww-p
- - PiotrIT2015/OS-WW-P
- - PiotrIT2015/CCNA
- - PiotrIT2015/WhiteDwarf
  - PiotrIT2015/white-weed-playcraft
+ - PiotrIT2015/OS-WW-P
+ - PiotrIT2015/RelaxationTube
+ - PiotrIT2015/CCNA
  - PiotrIT2015/Cisco
+ - PiotrIT2015/thesis
+ - PiotrIT2015/CV-P
 
 #Stackoverflow flair is optional
 stackoverflow:
