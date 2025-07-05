@@ -122,6 +122,7 @@ apps:
 github:
  - PiotrIT2015/white-weed-playcraft
  - PiotrIT2015/OS-WW-P
+ - PiotrIT2015/NetworkMonitor
  - PiotrIT2015/RelaxationTube
  - PiotrIT2015/EthicalHacker
  - PiotrIT2015/CCNA
