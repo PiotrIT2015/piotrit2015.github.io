@@ -119,7 +119,7 @@ apps:
    description: this app could be use as mobile app by shops
  - name: WW-P-sounds-help
    url: https://github.com/PiotrIT2015/WW-P-sounds-help
-   description: this app could be use as mobile app by people with listen disability
+   description: It is an android app which coul help disabled people cope with listen disability.
    
 #List of interesting Github repo/projects to include - optional
 github:
