@@ -18,29 +18,20 @@ primarylinks:
 #   url: https://twitter.com/PiotrProchnicki
 
 #Social media
-hobby_username:
- - piotr-prochnicki,69881   
-linkedin_username:
- - piotr-prochnicki
-linkedin_craft-1:
- - 10150707
-linkedin_craft-2:
- - krk-1mw
-linkedin_craft-3:
- - lowcy-kariery
-linkedin_craft-4:
- - poland-people-linkedin
-github_username:
- - PiotrIT2015
-gitlab_username:
- - PiotrIT2017
-dockerhub_username:
- - piotrit2015
+hobby_username: piotr-prochnicki,69881
+linkedin_username: piotr-prochnicki
+linkedin_craft_1: 10150707
+linkedin_craft_2: krk-1mw
+linkedin_craft_3: lowcy-kariery
+linkedin_craft_4: poland-people-linkedin
+github_username: PiotrIT2015
+gitlab_username: PiotrIT2017
+dockerhub_username: piotrit2015
 
 #Any buzzword skills you want to include
 skills:
  - Java
- - Python  
+ - Python
  - GIT
  - Maven
  - Spring
@@ -119,7 +110,7 @@ apps:
  - name: WW-P-sounds-help
    url: https://github.com/PiotrIT2015/WW-P-sounds-help
    description: It is an android app which could help disabled people cope with listen disability.
-   
+
 #List of interesting Github repo/projects to include - optional
 github:
  - PiotrIT2015/white-weed-playcraft
