@@ -55,11 +55,6 @@ roles:
    end: March 2023
    employer: Tax Unit Sp. z.o.o.
    description: Archiving office documents. Assistance in fulfilling office orders. Assistance in writing letters to offices. Support for office equipment.
- - title: online store employee
-   start: March 2022
-   end: April 2022
-   employer: Charity Polska
-   description: Placing sales offers, taking a photo of products, packing, shipping orders.
  - title: Office worker
    start: September 2020
    end: December 2020
@@ -75,11 +70,6 @@ roles:
    end: September 2017
    employer: CISCO SYSTEMS, Krakow, Poland
    description: Achieve practical knowledge in the field of computer networks and <strong>Python</strong>
- - title: IT Specialist
-   start: March 2017
-   end: April 2017
-   employer: COGITO, Association for the development of psychiatry and environmental care, Krakow, Poland
-   description: I took care of all IT devices. My daily work focused on solving different problems with local networks and systems.
  - title: Office Technican
    start: October 2016
    end: December 2016
