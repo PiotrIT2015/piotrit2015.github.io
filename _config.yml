@@ -30,18 +30,14 @@ dockerhub_username: piotrit2015
 
 #Any buzzword skills you want to include
 skills:
- - Java
- - Python
- - GIT
- - Maven
- - Spring
- - SQL
- - HTML
- - CSS
+ - Cybersecurity
+ - SIEM
+ - Network Security
+ - Threat Detection
+ - Incydent Response
  - Linux
- - Windows
  - Docker
- - Hibernate
+ - Python
 
 #Work experience is required
 roles:
@@ -50,21 +46,6 @@ roles:
    end: September 2023
    employer: HXS Sp. z.o.o. Sp. k.
    description: Debugging the code(<strong>PHP</strong>). Reading the documentation.
- - title: Administration and Office Assistant
-   start: December 2022
-   end: March 2023
-   employer: Tax Unit Sp. z.o.o.
-   description: Archiving office documents. Assistance in fulfilling office orders. Assistance in writing letters to offices. Support for office equipment.
- - title: Office worker
-   start: September 2020
-   end: December 2020
-   employer: Paweł Samolej Grupa Center
-   description: Complete the marketing of all items that needed to be completed before the holiday shopping season in an automated Shopper environment.
- - title: Office Administrative Employee
-   start: November 2018
-   end: June 2020
-   employer: HR team Sp. z.o.o.
-   description: Segregation, recording and creating documentation. Cooperating with other organizational units. Handling of mail. Entering data to a computer. Office service.
  - title: Cisco Services Engineer Intern
    start: July 2017
    end: September 2017
