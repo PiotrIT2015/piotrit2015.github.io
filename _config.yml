@@ -77,7 +77,7 @@ education:
 apps:
  - name: WW-P-mobile
    url: https://github.com/PiotrIT2015/WW-P-mobile
-   description: This is an app could be use as mobile store flayer.
+   description: This is an app could be use as mobile store flyer.
  - name: WW-P-sounds-help
    url: https://github.com/PiotrIT2015/WW-P-sounds-help
    description: This is an android app which could help disabled people cope with listen disability.
