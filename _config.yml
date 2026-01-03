@@ -91,16 +91,12 @@ apps:
 #List of interesting Github repo/projects to include - optional
 github:
  - PiotrIT2015/white-weed-playcraft
+ - PiotrIT2015/chess-assistant
  - PiotrIT2015/OS-WW-P-1
  - PiotrIT2015/OS-WW-P-2
- - PiotrIT2015/NetworkMonitor
  - PiotrIT2015/PHPYoutubeclone
- - PiotrIT2015/EthicalHacker
- - PiotrIT2015/CCNA
  - PiotrIT2015/Krk
  - PiotrIT2015/thesis
- - PiotrIT2015/CV-P
- - PiotrIT2015/chess-break
 
 #Stackoverflow flair is optional
 stackoverflow:
