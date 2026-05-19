@@ -92,6 +92,7 @@ apps:
 github:
  - PiotrIT2015/local-rag
  - PiotrIT2015/chatbot-CLI
+ - PiotrIT2015/note_summarizer
  - PiotrIT2015/chess-assistant
  - PiotrIT2015/OS-WW-P-1
  - PiotrIT2015/OS-WW-P-2
