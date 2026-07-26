@@ -91,6 +91,7 @@ apps:
 #List of interesting Github repo/projects to include - optional
 github:
  - PiotrIT2015/NetworkMonitor
+ - PiotrIT2015/secure-rag
  - PiotrIT2015/pandasAnalyzer
  - PiotrIT2015/chess-assistant
  - PiotrIT2015/history-data-science
