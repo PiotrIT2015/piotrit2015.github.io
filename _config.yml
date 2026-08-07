@@ -33,14 +33,36 @@ dockerhub_username: piotrit2015
 
 #Any buzzword skills you want to include
 skills:
- - Cybersecurity
- - SIEM
- - Network Security
- - Threat Detection
- - Incydent Response
  - Linux
+ - Windows
+ - Windows Administration
+ - System Administration
+ - DevOps
  - Docker
- - Python
+ - Containerization
+ - LAMP
+ - Apache
+ - MySQL
+ - Networking
+ - TCP/IP
+ - DNS
+ - HTTP/HTTPS
+ - VPN
+ - Firewalls
+ - Network Troubleshooting
+ - Backend Development
+ - Web Application Security
+ - RESTful APIs
+ - FastAPI
+ - Flask
+ - React
+ - Node.js
+ - Vite
+ - PHP
+ - MySQL
+ - Apache
+ - OWASP
+ - Secure API Development
 
 #Work experience is required
 roles:
