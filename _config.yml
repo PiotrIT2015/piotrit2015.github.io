@@ -117,6 +117,7 @@ apps:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - PiotrIT2015/it-admin
  - PiotrIT2015/jobPilot-ai
  - PiotrIT2015/NetworkMonitor
  - PiotrIT2015/secure-rag
