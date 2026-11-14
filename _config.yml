@@ -118,6 +118,7 @@ apps:
 #List of interesting Github repo/projects to include - optional
 github:
  - PiotrIT2015/security-automation-soar-lite
+ - PiotrIT2015/honeypot-threat-intelligence 
  - PiotrIT2015/WW-P-security-platform
  - PiotrIT2015/jobPilot-ai
  - PiotrIT2015/NetworkMonitor
